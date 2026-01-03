@@ -1,7 +1,6 @@
 # 🏆 Daily Coding Challenges
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Progress](https://img.shields.io/badge/Challenges%20Solved-0-success)](./)
 
 Welcome to my **Daily Coding Challenges** repository! 🚀 This project is a dedicated space where I document my journey of solving algorithmic problems, refining my data structures knowledge, and sharpening my Python skills one day at a time.
 
